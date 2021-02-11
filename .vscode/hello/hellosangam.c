@@ -8,6 +8,12 @@ printf("Hello World This Is Sangam Patel\n");
 printf("Hello World, this is Suvradeep Dutta\n");
 
   printf("Hello World My name is Souvik Jana\n");
+<<<<<<< HEAD:.vscode/hello/hellosangam.c
 
+=======
+  printf("hello world my name is pooja\n");
+  printf("hello world I am Suvradeep Dutta\n");
+ 
+>>>>>>> 584261980e09afd54b1ac32f011f4619ca0de107:.vscode/hellosangam.c
     return 0;
 }

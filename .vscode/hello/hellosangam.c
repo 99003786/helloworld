@@ -12,8 +12,7 @@ printf("Hello World, this is Suvradeep Dutta\n");
 
 =======
   printf("hello world my name is pooja\n");
-  printf("hello world I am Suvradeep Dutta\n");
- 
+  
 >>>>>>> 584261980e09afd54b1ac32f011f4619ca0de107:.vscode/hellosangam.c
     return 0;
 }
